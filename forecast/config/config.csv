@@ -1,0 +1,8 @@
+{
+     "days": 5,
+     "frequency": 3,
+     "cities": [
+         "Moscow",
+         "Saint Petersburg"
+     ]
+ }
